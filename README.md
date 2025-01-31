@@ -24,6 +24,9 @@ Tools: Git, GitHub, Postman, VSCode
 📫 **Get in Touch**
 
 Feel free to connect with me through the following platforms:
+
 LinkedIn: https://www.linkedin.com/in/mohamed-shebin-t-p-719480294/
+
 Email: Shebin2024@gmail.com
+
 Twitter: Shebintp
