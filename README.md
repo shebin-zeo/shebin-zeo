@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @shebin-zeo
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shebin2024@gmail.com
+Hi there, I'm Shebin 👋
 
-<!---
-shebin-zeo/shebin-zeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+🚀 About Me
+
+🎯 Passionate Full-Stack Developer specializing in MERN Stack with expertise in Tailwind CSS, JWT, OAuth, MongoDB Atlas, and Firebase.
+
+💡 Currently working on AI-powered applications and tours and travel management systems using LLMs, Whisper, and Hystake.
+
+🔧 Technologies & Tools
+
+
+
+📌 Current Projects
+
+📌 YouTube Video Summarizer – AI-powered video summaries using LLMs and Whisper.📌 Tours & Travel Management System – MERN-based platform for Admin, Guide, and Users.📌 Smart Fan Speed Controller – ESP32-based system with DHT11 for automatic fan speed adjustment.
+
